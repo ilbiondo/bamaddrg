@@ -1,3 +1,6 @@
+Note: this repo removes the vendored bamtools and cleans up the Makefile. 
+The code itself is unchanged. 
+
 bamaddrg: adds read groups to input BAM files, streams BAM output on stdout.
 
 This is intended for use "fixing up" RG tags on the fly so that they reflect
